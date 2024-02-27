@@ -1,6 +1,6 @@
 The Art Of Prompt Engginerring
 
-Author : @Derickpascall
+Author : @Cogniviteclass.ai
 
 Mentee assignment from IBM Advance AI @infinite learning Course The Art of Prompt Engineering From Cogniviteclass.ai
 
